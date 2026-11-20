@@ -1,0 +1,49 @@
+ATDM PROGRAM EXPLANATIONS (QUICK REFERENCE)
+
+01. ADT, Time Complexity and Recursion
+- Implements stack push, pop and display using an array.
+- Counts loop iterations to demonstrate O(n).
+- Calculates factorial using recursion; n <= 1 is the base condition.
+
+02. Array Operations and Matrix Addition
+- Reads and displays array elements.
+- Inserts by shifting elements right; deletes by shifting left.
+- Searches linearly and adds two 3x3 matrices.
+
+03. Singly Linked List
+- Each node stores data and a next pointer.
+- Supports insertion at end, deletion by value, search, reverse and display.
+
+04. Doubly Linked List
+- Each node stores data, prev and next pointers.
+- Supports insertion, deletion, search, and forward/backward display.
+
+05. Queue Using Array
+- Uses front and rear indexes.
+- enqueue inserts at rear; dequeue removes from front (FIFO).
+
+06. Linear and Binary Search
+- Linear search checks elements one by one.
+- Binary search repeatedly halves the range and requires sorted input.
+
+07. Binary Tree Traversals
+- Preorder: Root, Left, Right.
+- Inorder: Left, Root, Right.
+- Postorder: Left, Right, Root.
+
+08. Binary Search Tree
+- Implements insert, search, delete, minimum, maximum, height and inorder display.
+- For a node with two children, deletion uses the minimum node in the right subtree.
+
+09. Binary Search Tree Alternative
+- A second BST implementation as separately presented in the lab manual.
+
+10. Graph Representation, BFS and DFS
+- Stores graph as adjacency matrix and adjacency list.
+- BFS uses a queue; DFS uses recursion.
+
+11. Student Record Management System (Mini Project)
+- Uses vector for records, queue for service order, and stack for recent records.
+- Includes adding, displaying, searching, deleting, sorting, queue operations and recent-record display.
+
+Source note: Sorting algorithm source code was not found in the uploaded manual's detailed code sections, despite being named in its assignment index.
